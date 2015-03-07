@@ -1,0 +1,6 @@
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\bin\Debug\Sbio_Lab1.exe.config
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\bin\Debug\Sbio_Lab1.exe
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\bin\Debug\Sbio_Lab1.pdb
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\obj\Debug\Sbio_Lab1.csprojResolveAssemblyReference.cache
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\obj\Debug\Sbio_Lab1.exe
+c:\users\moe\documents\visual studio 2013\Projects\Sbio_Lab1\Sbio_Lab1\obj\Debug\Sbio_Lab1.pdb
